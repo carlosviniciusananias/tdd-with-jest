@@ -5,7 +5,7 @@
 - yarn test
 
 ## Observações
-- Os testes devem ser desenvolvidos em test/index.test.js
+- Os testes devem ser desenvolvidos em test/index.js
 - Em index.js devem ser criadas as funções que devem ser testadas
 
 ### Jest
